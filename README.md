@@ -8,7 +8,7 @@
                  <a href="#contact">Contact</a>
              </li>
              <li>
-                 <a href="#links">Link</a>
+                 <a href="#future">Plans for future</a>
              </li>
 
 ## <h2 id="expect"><i> What to expect</i></h2>
